@@ -1,4 +1,3 @@
-
 squares = {}
 for i in range(6):
     squares[i] = i*i
@@ -6,6 +5,8 @@ for i in range(6):
 squares[7] = "glenn"
 squares[8] = "glenn Pavel"
 squares[6] = "Pavel del 6"
+squares[16] = "Pavel del 16"
+squares[17] = "Pavel del 17"
 
 print(squares)
 

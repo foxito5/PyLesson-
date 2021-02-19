@@ -1,5 +1,3 @@
-
-
 # Python Collections (Arrays)
 # There are four collection data types in the Python programming language:
 
@@ -8,18 +6,14 @@
 # Set is a collection which is unordered and unindexed. No duplicate members.
 # Dictionary is a collection which is unordered and changeable. No duplicate members.
 
-
 children = {}  # empty
-
 children["nombres"] = ["Glenn", "Pavel"]
 children["apellidos"] = ["Barrientos", "Caraccioli", "Rivera"]
-
-
 children["apellidos"].append("Golverg")  # ,"Saindfeld".insert("GoldBerg")
+children["apellidos"].append("Pavelverg")
 
 print(children["nombres"])
 print(children["apellidos"])
-
 
 dictionary = dict()
 list = ["1", "2", "3"]
