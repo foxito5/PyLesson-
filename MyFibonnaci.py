@@ -1,5 +1,4 @@
-
-
+# yo hice esta funcion y me quedo pijuda
 def Fibonnaci(n, lista={}):
     if(n < 2):
         return n
