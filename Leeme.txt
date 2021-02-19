@@ -1,2 +1,1 @@
-Este es un nuevo inicio
-lo estoy haciendod desde un nuevo branch en VS code local
+Estoy poniendo un cambio en el master
