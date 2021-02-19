@@ -1,5 +1,5 @@
 thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
-
+thislist = thislist + ["uvas","limones"]
 
 print(thislist[2:5])
 print(thislist[:4])

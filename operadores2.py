@@ -1,4 +1,3 @@
-
 nombre = "Glenn Pavel"
 print(f"Software engineer {nombre}")
 
@@ -12,12 +11,9 @@ marcas.insert(0, "Activa")
 
 marcas.sort(reverse=True)  # ordenado
 marcas.reverse()  # reversion de orden
-
-
 print(marcas)
 
 popped = marcas.pop(0)
-
 print(f"se hizo pop a {popped} ")
 
 for f in marcas:
