@@ -1,0 +1,5 @@
+aqui llevo las practicas de mis hello world in python
+en este momento estoy revisando como trabajan los cambios en un branch
+es mi primera prueba con Remoto
+voy a modificar desde gitpod
+ahora lo voy a modificar desdde mi maquina
